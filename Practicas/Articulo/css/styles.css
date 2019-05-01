@@ -1,0 +1,36 @@
+*{
+  font-family: verdana, Geneva,sans-serif;
+  width: 700px;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+h1{
+  font-size: 37px;
+  line-height: 46px;
+  font-family: tahoma,Helvetica,sans-serif;
+  color: #000000
+}
+
+h2{
+  color: #666;
+}
+
+h3{
+  font-size: 25px;
+  line-height: 38px;
+  font-family: tahoma,Helvetica,sans-serif;
+  font-weight: bold;
+}
+
+p{
+  color: #333;
+  line-height:  27px;
+}
+
+.text-bold{
+  font-weight: bold;
+}
+.texto-home{
+  max-width: 30%;
+}

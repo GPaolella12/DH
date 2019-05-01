@@ -1,0 +1,79 @@
+html {
+  background-size: cover;
+}
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+}
+.principal{
+  display: flex;
+}
+.texto-principal{
+  background-color: white;
+  width: 25%;
+  color: #25877b;
+}
+.imagenfondo{
+  background-image: url("../img/emilia-about.jpg");
+  background-size: cover;
+  width: 80%;
+  height:  762px;
+}
+.menu{
+  background-color: #f4f3ed;
+  opacity: 0.5;
+  z-index: 1;
+}
+.imagenfondo a{
+  margin: 0 4px;
+  text-decoration: none;
+  vertical-align: middle;
+}
+.nav{
+  width: 100%;
+  margin-top: 30px;
+  background:rgba(255,255,255, 0.3);
+  display: flex;
+  flex-direction: row-reverse;
+  padding: 25px 0;
+}
+.iconos{
+  display: flex;
+  flex-direction: row-reverse;
+  padding-top: 5px;
+}
+.iconos i{
+  margin: 2px;
+}
+a{
+  
+}
+h1{
+  color: black;
+  margin-top: 200px;
+  margin-left: 10px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 75px
+}
+h2{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 27px;
+  font-weight: normal;
+  position:  sticky;
+  margin-left: 45px;
+  width: 750px;
+}
+h3{
+  font-family: 'Work Sans', sans-serif;
+  font-weight: normal;
+  font-size: 27px;
+  margin-left: 43px;
+}
+a{
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+}
+p{
+  margin-left: 45px;
+}
